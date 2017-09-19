@@ -25,7 +25,7 @@ public class TestAndDebug {
 		o.meth(23); 
 		Object a="23";
 		int c=3%8;
-		System.out.println(c);
+		System.out.println("c"+c);
 		System.out.println(System.currentTimeMillis());
 
 		
